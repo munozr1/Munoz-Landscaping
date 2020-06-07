@@ -20,3 +20,13 @@ img.hover-img {
 .card:hover img.hover-img{
   opacity: 1;
 }
+
+img.circle {
+  border-radius: 50%;
+  border: 3px solid black;
+  width: 10rem;
+}
+
+.circleP {
+  font-size: 30px;
+}
