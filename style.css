@@ -2,6 +2,10 @@ img {
   transition: all linear 0.7s;
 }
 
+.container{
+  margin-top: 20px;
+}
+
 .card:hover img{
   opacity: 0;
 }

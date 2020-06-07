@@ -3,7 +3,6 @@ https://onlinelogomaker.com
 
 Fonts used in this project:
 
-https://assets.onlinelogomaker.com/fonts/Adamcg-Pro.ttf
 
 
 Instructions to install fonts on windows: 
