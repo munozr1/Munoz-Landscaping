@@ -6,7 +6,7 @@ img {
   margin-top: 20px;
 }
 
-.card:hover img{
+.card:hover img.fade-out{
   opacity: 0;
 }
 
@@ -29,4 +29,13 @@ img.circle {
 
 .circleP {
   font-size: 30px;
+}
+
+
+#estimates {
+  color: green;
+}
+
+#face{
+  color: blue;
 }
